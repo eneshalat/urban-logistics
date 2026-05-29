@@ -1,0 +1,6 @@
+Meydan Talas 8
+Meydan Belsin 12
+Meydan Ildem 15
+Talas Belsin 10
+Talas Ildem 20
+Belsin Ildem 25
