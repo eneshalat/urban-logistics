@@ -3,7 +3,7 @@ package com.kayseriexpress.config;
 public class Branding {
     public static final String COMPANY_NAME = "Kayseri Express Logistics";
     public static final String HUB_NAME = "Meydan";
-    public static final String MISSION_STATEMENT = "Delivering the heart of Kayseri from Meydan to your doorstep with speed and reliability.";
+    public static final String MISSION_STATEMENT = "Connecting all of Kayseri together.";
 
     public static void printBanner() {
         System.out.println("=====================================================");
